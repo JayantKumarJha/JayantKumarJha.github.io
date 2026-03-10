@@ -86,7 +86,7 @@ export default function Home() {
                   My Projects
                 </Link>
                 <Link
-                  href="mailto:jayant@example.com"
+                  href="mailto:iamjayantieor23@gmail.com"
                   className="ml-4 text-lg font-medium capitalize text-dark underline dark:text-light md:text-base"
                 >
                   Contact Me
