@@ -24,7 +24,7 @@ export default function Home() {
                 style={{ maxWidth: '400px', margin: '0 auto' }}
               >
                 <Image
-                  src="/profile_picture.jpeg"
+                  src="/profile_picture.png"
                   alt="Jayant Kumar Jha"
                   width={400}
                   height={400}
