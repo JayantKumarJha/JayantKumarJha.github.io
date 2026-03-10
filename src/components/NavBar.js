@@ -108,7 +108,7 @@ const NavBar = () => {
             </svg>
           </motion.a>
           <motion.a
-            href="https://www.linkedin.com/in/jayant-kumar-jha"
+            href="https://www.linkedin.com/in/jayant-kumar-jha-b34b19195/"
             target="_blank"
             whileHover={{ y: -2 }}
             whileTap={{ scale: 0.9 }}
